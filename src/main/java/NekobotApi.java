@@ -1,5 +1,5 @@
-import endpoints.ImageEndpoints;
 import generators.ImageGenerators;
+import images.ImageEndpoints;
 
 public class NekobotApi {
     private ImageEndpoints imageEndpoints;
